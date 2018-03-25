@@ -1,4 +1,4 @@
-<html><head>kaka workshop</head>
+<html><head><title>ridwan abdi mohamed</title></head>
 <body>
 <form action ="post.php" method="post">
 Full Name :<input type="text" name ="user"><br/>
